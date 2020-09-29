@@ -4,8 +4,9 @@ layout: default
 
 # "Shooting ranges are boring."
 # "Shooting ranges are dirty."
-# "There are too many people around."
-# "You can't really learn anything in a lane."
+# "I hate being around all these people."
+# "I can't really learn anything else in a lane."
+# "It makes me nervous to be here."
 
 So we fixed it.
 
