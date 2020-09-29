@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Shooting ranges suck.
 
 Think about it.
