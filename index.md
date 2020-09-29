@@ -10,6 +10,9 @@ layout: default
 
 We agree, so we fixed it.
 
+The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we've ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
+
+
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/0hQftUDphjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our Range:
@@ -31,8 +34,6 @@ We agree, so we fixed it.
 - Business owners.
 - Professional writers.
 - Customer service reps.
-
-The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we've ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
 
 ## “I’ve used Basecamp for a million projects over the last decade and a half. It's beautiful software that has resisted every wrong trend and stayed true to the things that mattered most. Highly recommended.”
 
