@@ -12,8 +12,7 @@ We agree, so we fixed it.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/0hQftUDphjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
- ## Our Range:
+## Our Range:
  
 - How to start your writing using scripts & templates.
 - How to train any employee to be a great copywriter.
@@ -21,7 +20,7 @@ We agree, so we fixed it.
 - How to sell yourself without sounding pushy.
 - How to become a copywriter (if you want).
 
-## Who joins Copywriting Course:
+## Who shoots with us?:
 
 - CEO's.
 - Journalists.
