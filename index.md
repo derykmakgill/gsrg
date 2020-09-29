@@ -33,3 +33,13 @@ We agree, so we fixed it.
 - Customer service reps.
 
 The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we've ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
+
+## “I’ve used Basecamp for a million projects over the last decade and a half. It's beautiful software that has resisted every wrong trend and stayed true to the things that mattered most. Highly recommended.”
+
+## “We can see exactly what needs to be done and when. We're much more efficient.”
+
+## “We've had less confusion with task responsibilities and deadlines, which has increased productivity and efficiency.”
+
+## “We are all collaborating more on feedback, it helps to show accountability as well.”
+
+## “Task completion! The lists and reminders help people remember what they said they were going to do and helps hold them accountable to the team.”
