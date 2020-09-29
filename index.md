@@ -52,3 +52,7 @@ The Copywriting Course is a training school for people who want to communicate b
 ## “We are all collaborating more on feedback, it helps to show accountability as well.”
 
 ## “Task completion! The lists and reminders help people remember what they said they were going to do and helps hold them accountable to the team.”
+
+<br>
+
+The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we’ve ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
