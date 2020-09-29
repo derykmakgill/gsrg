@@ -23,7 +23,7 @@ The Copywriting Course is a training school for people who want to communicate b
 ## Our Ranges:
  
 - Shoot 270° in all directions (actually learn to shoot in REAL life situations!)
-- Use lasers, lights, night sights.
+- Use lasers, lights, night sights and all your self defense accessories.
 - Shoot fully automatic.
 - Private. No armchair "experts" telling you how bad you are.
 - All ages, genders, backgrounds, etc etc etc 
