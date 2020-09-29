@@ -26,7 +26,8 @@ The Copywriting Course is a training school for people who want to communicate b
 - Use lasers, lights, night sights and all your self defense accessories.
 - Shoot fully automatic.
 - Private. No armchair "experts" telling you how bad you are.
-- All ages, genders, backgrounds, etc etc etc 
+- All ages, genders, backgrounds, etc etc etc.
+- Keep score 
 
 ## Who shoots with us?:
 
