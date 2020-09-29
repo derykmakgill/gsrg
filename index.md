@@ -10,7 +10,11 @@ layout: default
 
 We agree, so we fixed it.
 
+<br>
+
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/0hQftUDphjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we've ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
 
