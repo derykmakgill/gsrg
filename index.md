@@ -4,7 +4,7 @@ layout: default
 
 # "Shooting ranges are boring."
 # "Shooting ranges are dirty."
-# "I hate being around all these people."
+# "I'm uncomfortable around all these people."
 # "I can't really learn anything else in a lane."
 # "It makes me nervous to be here."
 
@@ -22,11 +22,11 @@ The Copywriting Course is a training school for people who want to communicate b
 
 ## Our Ranges:
  
-- 270° tactical shooting rooms (actually learn to shoot in REAL life situations)
-- Shoot fully automatic
+- Shoot 270° in all directions (actually learn to shoot in REAL life situations!)
+- Use lasers, lights, night sights.
+- Shoot fully automatic.
+- Private. No armchair "experts" telling you how bad you are.
 - All ages, genders, backgrounds, etc etc etc 
-- 
-- How to become a copywriter (if you want).
 
 ## Who shoots with us?:
 
