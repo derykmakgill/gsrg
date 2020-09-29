@@ -18,25 +18,25 @@ We agree, so we fixed it.
 
 The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we've ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
 
-## Our Range:
+## Our Ranges:
  
-- How to start your writing using scripts & templates.
-- How to train any employee to be a great copywriter.
-- How to take the concepts learned and implement.
-- How to sell yourself without sounding pushy.
+- 360° tactical shooting rooms (actually learn to shoot in REAL life situations)
+- Shoot fully automatic
+- All ages, genders, backgrounds, etc etc etc 
+- 
 - How to become a copywriter (if you want).
 
 ## Who shoots with us?:
 
 - CEO's.
-- Journalists.
-- Freelancers.
-- Sales people.
-- Brand managers.
-- Marketing teams.
-- Business owners.
-- Professional writers.
-- Customer service reps.
+- Celebrities.
+- Professional shooters.
+- Moms. 
+- Grandmas.
+- Your liberal uncle, Alan, who flew out from Portland for the week (and didn't tell his friends!)
+- At-risk communities.
+- Law enforcement. 
+- Everyone else.
 
 ## “I’ve used Basecamp for a million projects over the last decade and a half. It's beautiful software that has resisted every wrong trend and stayed true to the things that mattered most. Highly recommended.”
 
