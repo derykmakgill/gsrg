@@ -18,6 +18,8 @@ We agree, so we fixed it.
 
 The Copywriting Course is a training school for people who want to communicate better at scale. It contains all the training we've ever made, rolled into one logically-laid-out format, and a full community where you can get any of your copy reviewed by professional copywriters.
 
+<br>
+
 ## Our Ranges:
  
 - 360° tactical shooting rooms (actually learn to shoot in REAL life situations)
