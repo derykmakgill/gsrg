@@ -22,7 +22,7 @@ The Copywriting Course is a training school for people who want to communicate b
 
 ## Our Ranges:
  
-- 360° tactical shooting rooms (actually learn to shoot in REAL life situations)
+- 270° tactical shooting rooms (actually learn to shoot in REAL life situations)
 - Shoot fully automatic
 - All ages, genders, backgrounds, etc etc etc 
 - 
