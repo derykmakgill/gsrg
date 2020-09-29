@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# Unlimited copy critiques.
+# Unlimited email critiques.
+# Unlimited office hours invites.
+# Unlimited help with your projects.
+# Unlimited access to all training materials.
+
 # Shooting ranges suck.
 
 Think about it.
