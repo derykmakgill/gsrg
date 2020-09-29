@@ -38,7 +38,6 @@ The Copywriting Course is a training school for people who want to communicate b
 - Law enforcement. 
 - Everyone else.
 
-<br>
 
 <br>
 
